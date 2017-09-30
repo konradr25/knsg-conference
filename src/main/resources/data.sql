@@ -1,0 +1,1 @@
+INSERT INTO public.file_entity (id, file_name) VALUES (-10, '2konflogo.png');
